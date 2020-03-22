@@ -1,0 +1,24 @@
+{
+  "name": "health-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/migohe14/health-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/migohe14/health-project/issues"
+  },
+  "homepage": "https://github.com/migohe14/health-project#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "proj4": "^2.6.0"
+  }
+}
